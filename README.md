@@ -5,7 +5,7 @@ A CLI tool to quickly generate Android APKs from local templates.
 ## Prerequisites
 
 - Termux (from F-Droid, not Play Store)
-- [TermuxVoid](https://termuxvoid.github.io) repository configured
+- [TermuxVoid](https://aliheba125.github.io) repository configured
 
 ## Installation
 
@@ -139,8 +139,8 @@ apkgen clean
 
 ## Repository
 
-Available via the [TermuxVoid repository](https://termuxvoid.github.io).
+Available via the [TermuxVoid repository](https://aliheba125.github.io).
 
 ---
 
-Made for Termux — [TermuxVoid](https://termuxvoid.github.io)
+Made for Termux — [TermuxVoid](https://aliheba125.github.io)
