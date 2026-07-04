@@ -3,7 +3,7 @@
 # ------------------------------
 # CONFIGURATION
 # ------------------------------
-TEMPLATE_REPO="https://github.com/termuxvoid/apkgen-template.git"
+TEMPLATE_REPO="https://github.com/aliheba125/apkgen-template.git"
 DEFAULT_APP_NAME="apkgentemplate"
 DEFAULT_PACKAGE="com.apkgen.template"
 VERSION="1.0.0"
